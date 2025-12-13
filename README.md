@@ -1,2 +1,29 @@
-# wishingforagoodsite
-it is my first website, that was made on github page, so, please don't go hard on me !
+## Описание:
+ProLaunch - Интернет-магазин техники. надёжная, удобная и технологически продвинутую платформа для покупки компьютерной техники и электроники.
+
+## Функциональность:
+- Адаптивный дизайн.
+- Навигация между страницами.
+- JS эффекты на страницах.
+
+## Структура:
+#### wishingforagoodsite/
+#### ├── index.html
+#### ├── about.html
+#### ├── blog.html
+#### ├── contact.html
+#### ├── css/
+#### │   └── style.css
+#### ├── js/
+#### │   └── main.js
+#### └── README.md
+
+## Ссылка:
+### Сайт доступен по ссылке: https://rfm-r.github.io/wishingforagoodsite/
+
+## Разработчик:
+### Руслан И.
+
+
+** **
+© 2025 ProLaunch. Права защищены.
