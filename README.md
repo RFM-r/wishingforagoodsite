@@ -19,10 +19,10 @@ ProLaunch - Интернет-магазин техники. надёжная, у
 #### └── README.md
 
 ## Ссылка:
-### Сайт доступен по ссылке: https://rfm-r.github.io/wishingforagoodsite/
+- Сайт доступен по ссылке: https://rfm-r.github.io/wishingforagoodsite/
 
 ## Разработчик:
-### Руслан И.
+- Руслан И.
 
 
 ** **
